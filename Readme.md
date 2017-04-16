@@ -11,9 +11,13 @@
 
 ![screenshot](DiscursoDireto2.jpg)
 
+No Discurso Direto, o autor realiza uma transcrição fiel da fala de um personagem.
+
 # Discurso Indireto
 
 ![screenshot](DiscursoIndireto.gif)
+
+No Discurso Indireto, existe um elemento narrador, responsável por contar da sua forma como uma outra personagem opinou ou se expressou sobre alguma coisa.
 
 # Author
 
